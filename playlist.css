@@ -32,6 +32,10 @@
     color: #333366;
 }
 
+.full{
+    width: 100%;
+}
+
 .guitar {
     position: absolute;
     margin-left: 165px;
