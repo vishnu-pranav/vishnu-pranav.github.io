@@ -38,10 +38,6 @@
     color: #333366;
 }
 
-.full{
-    width: 100%;
-}
-
 .guitar {
     position: absolute;
     margin-left: 165px;
@@ -728,6 +724,10 @@
 }
 
 body{
+    margin: 0;
+}
+
+.html{
     margin: 0;
 }
 
